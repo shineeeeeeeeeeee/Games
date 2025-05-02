@@ -41,7 +41,11 @@ Then compile and run:
 javac Main.java Sudoku.java
 java Main
 ```
+## Preview
+<img width="1184" alt="Image" src="https://github.com/user-attachments/assets/82ed77b0-8bfb-472d-a14d-50e0dc23d3f2" />
+
 ## Gameplay Instructions
+
 1. Click on a number (1-9) at the bottom to select it.
 
 2. Click on an empty tile on the board to attempt to place the number.
